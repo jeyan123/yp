@@ -1,0 +1,1 @@
+mysql -uroot learning -e "insert into country (id,name,capital,latitude,longitude,population,life_expectancy,gross_domestic_product,gdp_per_person,unemployment_rate) values (  1,'USA','Washington, D.C',40.0000,-100.0000,'313.9 million (2012)','78.55','15.68 trillion USD (2012)','49,965.27 USD (2012)','7.3% (Aug 2013)')"
